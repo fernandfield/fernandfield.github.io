@@ -2099,7 +2099,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: var(--color-primary);
+  background: #fef5ea;
   border: 0;
   padding: 14px 45px;
   color: black;
