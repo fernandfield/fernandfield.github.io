@@ -2822,11 +2822,11 @@ section {
   width: 100%;
   display: block;
   margin: 0 auto;
-  background-color: #fff3db;
+  background-color: #FEF5EA;
 }
 .footer {
   font-size: 14px;
-  background-color: #f6d36b;
+  background-color: #FEF5EA;
   padding: 50px 0;
   color: black;
 }
